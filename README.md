@@ -85,7 +85,7 @@ pip install requests
 
 ```bash
 git clone https://github.com/bangladeshcyberspectre/Spectre-Strike.git
-cd spectre-strike
+cd Spectre-Strike
 pip install -r requirements.txt
 python spectre_strike.py
 ```
